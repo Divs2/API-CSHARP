@@ -19,6 +19,7 @@ namespace july_2021.Test
         new object[] { 12, 2, 14 },
         new object[] { 12, 4, 16 }
     };
+        
     }
 }
 
